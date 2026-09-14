@@ -1,0 +1,31 @@
+# Requirements for Porphyrin_2026 analysis scripts
+# Mitkevich et al. 2026 — The FEBS Journal
+#
+# Install all core dependencies:
+#   pip install -r requirements.txt
+#
+# For Figure 5 SVG rendering only (render_fig5.py), also install:
+#   pip install cairosvg
+# and on Linux ensure Arial or a compatible font is present:
+#   sudo apt-get install fonts-liberation
+
+# ── Core (required for all scripts) ──────────────────────────────────────────
+
+# GEPIA2 API client (run_gepia_pdf_batch3.py)
+# Only one version exists; must be run on a machine with access to
+# gepia2.cancer-pku.cn — not available in sandboxed environments.
+gepia==0.3
+
+# Data handling (build_figure_data.py, figure4_plot2.py, panel_B_chromatin_expression.py)
+pandas>=1.5
+numpy>=1.24
+openpyxl>=3.1        # required by pandas for .xlsx read/write
+
+# Plotting (figure4_plot2.py, panel_A/B_chromatin_expression.py)
+matplotlib>=3.7
+
+# ── Optional (render_fig5.py only) ───────────────────────────────────────────
+
+# SVG → PNG/PDF renderer; only needed if regenerating Figure 5 from the SVG source.
+# Has system-level dependencies (libcairo); see render_fig5.py for font notes.
+# cairosvg>=2.7

@@ -1,0 +1,23 @@
+figure_panel,dataset_id,regulator,cell_line,species,perturbation,heme_gene_human,heme_gene_in_dataset,log2FC_KD_vs_ctrl,padj,source
+Figure_4A,GSE70314,ATAD2,ES_cells,mouse,siRNA_knockdown,ALAS1,Alas1,0.0946,0.058545,GSE70314 — Atad2 siRNA in mouse ES cells
+Figure_4A,GSE70314,ATAD2,ES_cells,mouse,siRNA_knockdown,ALAD,Alad,1.0276,0.0,GSE70314 — Atad2 siRNA in mouse ES cells
+Figure_4A,GSE70314,ATAD2,ES_cells,mouse,siRNA_knockdown,HMBS,Hmbs,2.5581,0.001268,GSE70314 — Atad2 siRNA in mouse ES cells
+Figure_4A,GSE70314,ATAD2,ES_cells,mouse,siRNA_knockdown,UROS,Uros,-0.1636,5.6e-05,GSE70314 — Atad2 siRNA in mouse ES cells
+Figure_4A,GSE70314,ATAD2,ES_cells,mouse,siRNA_knockdown,UROD,Urod,0.4863,0.151429,GSE70314 — Atad2 siRNA in mouse ES cells
+Figure_4A,GSE70314,ATAD2,ES_cells,mouse,siRNA_knockdown,CPOX,Cpox,0.2245,0.142317,GSE70314 — Atad2 siRNA in mouse ES cells
+Figure_4A,GSE70314,ATAD2,ES_cells,mouse,siRNA_knockdown,PPOX,Ppox,-0.0222,0.652326,GSE70314 — Atad2 siRNA in mouse ES cells
+Figure_4A,GSE70314,ATAD2,ES_cells,mouse,siRNA_knockdown,FECH,Fech,-1.9734,3.7e-05,GSE70314 — Atad2 siRNA in mouse ES cells
+Figure_4A,GSE328851,ATAD2,C2C12,mouse,shRNA_knockdown,ALAS1,Alas1,0.5295,0.002705,GSE328851 — Atad2 shRNA in C2C12 myoblasts
+Figure_4A,GSE328851,ATAD2,C2C12,mouse,shRNA_knockdown,ALAD,Alad,0.1925,0.003365,GSE328851 — Atad2 shRNA in C2C12 myoblasts
+Figure_4A,GSE328851,ATAD2,C2C12,mouse,shRNA_knockdown,HMBS,Hmbs,0.385,0.012578,GSE328851 — Atad2 shRNA in C2C12 myoblasts
+Figure_4A,GSE328851,ATAD2,C2C12,mouse,shRNA_knockdown,UROS,Uros,0.1115,0.131273,GSE328851 — Atad2 shRNA in C2C12 myoblasts
+Figure_4A,GSE328851,ATAD2,C2C12,mouse,shRNA_knockdown,UROD,Urod,0.0045,1.0,GSE328851 — Atad2 shRNA in C2C12 myoblasts
+Figure_4A,GSE328851,ATAD2,C2C12,mouse,shRNA_knockdown,CPOX,Cpox,0.1717,0.013955,GSE328851 — Atad2 shRNA in C2C12 myoblasts
+Figure_4A,GSE328851,ATAD2,C2C12,mouse,shRNA_knockdown,PPOX,Ppox,-0.2105,0.056143,GSE328851 — Atad2 shRNA in C2C12 myoblasts
+Figure_4A,GSE328851,ATAD2,C2C12,mouse,shRNA_knockdown,FECH,Fech,0.0403,0.461826,GSE328851 — Atad2 shRNA in C2C12 myoblasts
+Figure_4A,eLife-53375 Supp3,H2AFZ,WI38,human,siRNA_knockdown,UROS,UROS,-0.53,0.042,eLife-53375 Supp3 — H2AFZ siRNA in WI38 cells; genes from significant DE list (padj<0.05)
+Figure_4A,eLife-53375 Supp3,H2AFZ,WI38,human,siRNA_knockdown,UROD,UROD,-1.71,0.031,eLife-53375 Supp3 — H2AFZ siRNA in WI38 cells; genes from significant DE list (padj<0.05)
+Figure_4A,eLife-53375 Supp6+7,H2AFZ,U2OS,human,siRNA_knockdown,HMBS,HMBS,-0.94,0.038,eLife-53375 Supp6+7 — H2AFZ siRNA in U2OS cells; genes from significant DE list (padj<0.05)
+Figure_4A,eLife-53375 Supp6+7,H2AFZ,U2OS,human,siRNA_knockdown,UROS,UROS,-0.44,0.041,eLife-53375 Supp6+7 — H2AFZ siRNA in U2OS cells; genes from significant DE list (padj<0.05)
+Figure_4A,eLife-53375 Supp6+7,H2AFZ,U2OS,human,siRNA_knockdown,UROD,UROD,-1.82,0.029,eLife-53375 Supp6+7 — H2AFZ siRNA in U2OS cells; genes from significant DE list (padj<0.05)
+Figure_4A,eLife-53375 Supp6+7,H2AFZ,U2OS,human,siRNA_knockdown,CPOX,CPOX,-0.69,0.044,eLife-53375 Supp6+7 — H2AFZ siRNA in U2OS cells; genes from significant DE list (padj<0.05)

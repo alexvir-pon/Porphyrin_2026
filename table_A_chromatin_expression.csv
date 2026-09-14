@@ -1,0 +1,34 @@
+cancer,in_main_figure,H2AFZ,H2AFZ_sign,ATAD2,ATAD2_sign,BRD4,BRD4_sign,BRD2,BRD2_sign
+ACC,no,up,,no,,ns,,up,ns
+BLCA,no,up,ns,up,,ns,,ns,
+BRCA,yes,up,,up,,ns,,no,
+CESC,no,up,,up,,ns,,ns,
+CHOL,no,up,ns,ns,,up,ns,up,ns
+COAD,yes,up,,up,,no,,down,ns
+DLBC,no,up,,up,,ns,,up,ns
+ESCA,no,no,,up,,up,,no,
+GBM,no,up,,up,,down,ns,ns,
+HNSC,yes,up,ns,up,,down,ns,up,ns
+KICH,no,no,,ns,,no,,up,ns
+KIRC,yes,no,,ns,,no,,no,
+KIRP,no,no,,ns,,no,,up ,ns
+LAML,no,down,,no,,up,ns,up,ns
+LGG,no,no,,ns,,up,ns,up,ns
+LIHC,yes,up,,up,,ns,,no,
+LUAD,yes,no,,up,ns,down,ns,down,ns
+LUSC,yes,up,,up,,no,,down,ns
+MESO,no,NA,,NA,,NA,,ns,
+OV,no,no,,up,ns,up,ns,down,ns
+PAAD,no,up,,up,,up,ns,up,ns
+PCPG,no,ns,,ns,,ns,,ns,
+PRAD,yes,no,,no,,down,ns,ns,
+READ,no,up,ns,up,,no,,down,ns
+SARC,no,ns,,ns,,ns,,ns,
+SKCM,no,up,,up,,no,,no,
+STAD,no,ns,,up,,up,,no,
+TGCT,no,ns,,down,ns,ns,,down,ns
+THCA,yes,no,,no,,down,ns,down,ns
+THYM,no,up,,up,,up,ns,up,
+UCEC,no,up,,up,,down,ns,down,ns
+UCS,no,up,,up,,down ,ns,down,ns
+UVM,no,up,ns,NA,,NA,,NA,
