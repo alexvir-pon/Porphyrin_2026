@@ -4,7 +4,7 @@ Computational analysis code and data accompanying:
 
 > **Chromatin regulator perturbation causes heme pathway imbalance in yeast and human cells**  
 > Mitkevich OV, Kushnirov VV, Agaphonov MO, Alexandrov AI  
-> *The FEBS Journal* (2026), manuscript ID FJ-26-0956
+> *Research Square* (preprint, 2026). https://doi.org/10.21203/rs.3.rs-10369837/v1
 
 ---
 
@@ -193,7 +193,7 @@ If you use this code or data, please cite:
 
 > Mitkevich OV, Kushnirov VV, Agaphonov MO, Alexandrov AI.
 > Chromatin regulator perturbation causes heme pathway imbalance in yeast and human cells.
-> *The FEBS Journal* (2026). Manuscript ID: FJ-26-0956.
+> *Research Square* (preprint, 2026). https://doi.org/10.21203/rs.3.rs-10369837/v1
 
 ---
 
